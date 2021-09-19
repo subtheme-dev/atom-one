@@ -668,17 +668,17 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "{{theme.colors.base4}}",
-      "Checkbox.Background.Disabled.Dark": "{{theme.colors.base1}}",
-      "Checkbox.Background.Selected.Dark": "{{theme.colors.base4}}",
-      "Checkbox.Border.Default.Dark": "{{theme.colors.base4}}",
-      "Checkbox.Border.Disabled.Dark": "{{theme.colors.base1}}",
-      "Checkbox.Border.Selected.Dark": "{{theme.colors.base4}}",
-      "Checkbox.Focus.Thin.Default.Dark": "{{theme.colors.base4}}",
-      "Checkbox.Focus.Thin.Selected.Dark": "{{theme.colors.base1}}",
-      "Checkbox.Focus.Wide.Dark": "{{theme.colors.base4}}",
-      "Checkbox.Foreground.Disabled.Dark": "{{theme.colors.base8}}",
-      "Checkbox.Foreground.Selected.Dark": "{{theme.colors.base9}}"
+      "Checkbox.Background.Default.Dark": "#{{theme.colors.base4}}",
+      "Checkbox.Background.Disabled.Dark": "#{{theme.colors.base1}}",
+      "Checkbox.Background.Selected.Dark": "#{{theme.colors.base4}}",
+      "Checkbox.Border.Default.Dark": "#{{theme.colors.base4}}",
+      "Checkbox.Border.Disabled.Dark": "#{{theme.colors.base1}}",
+      "Checkbox.Border.Selected.Dark": "#{{theme.colors.base4}}",
+      "Checkbox.Focus.Thin.Default.Dark": "#{{theme.colors.base4}}",
+      "Checkbox.Focus.Thin.Selected.Dark": "#{{theme.colors.base1}}",
+      "Checkbox.Focus.Wide.Dark": "#{{theme.colors.base4}}",
+      "Checkbox.Foreground.Disabled.Dark": "#{{theme.colors.base8}}",
+      "Checkbox.Foreground.Selected.Dark": "#{{theme.colors.base9}}"
     }
   }
 }
