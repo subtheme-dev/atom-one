@@ -5,7 +5,10 @@ The Atom One theme, adapted by Subtheme.
 Supported apps:
 - [JetBrains](theme/jetbrains)
 
-To build, use [sublate](https://github.com/espositocode/sublate):
+To build, first install [sublate](https://github.com/espositocode/sublate):
 
     $ pip install sublate
-    $ sublate
+
+Then, run the build script:
+
+    $ ./build.py
